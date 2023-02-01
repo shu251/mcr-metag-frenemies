@@ -1,0 +1,13 @@
+LAB_NUM	barcode	SITE_SEQ_NUM_VENT_SAMPLEID	Proj	NUM	VENT_formatted	VENT	SAMPLEID
+117	ACCATCCT	MCR_METAG_117_WhiteCastle_J2-1235	Frenemies_MCR_metagenome	117	White Castle	WhiteCastle	J2-1235
+118	CGTCCATT	MCR_METAG_118_X18_J2-1235	Frenemies_MCR_metagenome	118	X-18	X18	J2-1235
+119	AACTTGCC	MCR_METAG_119_Rav2_J2-1238	Frenemies_MCR_metagenome	119	Ravelin #2	Rav2	J2-1238
+120	GTACACCT	MCR_METAG_120_OldManTree_J2-1238	Frenemies_MCR_metagenome	120	Old Man Tree	OldManTree	J2-1238
+121	ACGAGAAC	MCR_METAG_121_Shrimpocalypse_J2-1240	Frenemies_MCR_metagenome	121	Shrimpocalypse (Shrimp Gully)	Shrimpocalypse	J2-1240
+122	CGACCTAA	MCR_METAG_122_LotsOShrimp_J2-1241	Frenemies_MCR_metagenome	122	Lots o' shrimp	LotsOShrimp	J2-1241
+123	TACATCGG	MCR_METAG_123_LotsOShrimp_J2-1242	Frenemies_MCR_metagenome	123	Lots o' shrimp	LotsOShrimp	J2-1242
+124	ATCGTCTC	MCR_METAG_124_Shrimpocalypse_J2-1242	Frenemies_MCR_metagenome	124	Shrimpocalypse (Shrimp Gully)	Shrimpocalypse	J2-1242
+125	CCAACACT	MCR_METAG_125_SouthofLungSnack_J2-1242	Frenemies_MCR_metagenome	125	South of Lung Snack	SouthofLungSnack	J2-1242
+126	TCTAGGAG	MCR_METAG_126_MustardStand_J2-1243	Frenemies_MCR_metagenome	126	Mustard Stand	MustardStand	J2-1243
+127	CTCGAACA	MCR_METAG_127_ArrowLoop_J2-1243	Frenemies_MCR_metagenome	127	Arrow Loop	ArrowLoop	J2-1243
+128	ACGGACTT	MCR_METAG_128_ShrimpHole_J2-1244	Frenemies_MCR_metagenome	128	Shrimp Hole	ShrimpHole	J2-1244
